@@ -1,0 +1,21 @@
+{
+  "name": "darcula",
+  "displayName": "darcula",
+  "description": "IntelliJ darcula color scheme with more color accuracy",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Darcula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darcula-color-theme.json"
+      }
+    ]
+  }
+}
