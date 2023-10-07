@@ -28,7 +28,8 @@
         "editorBracketMatch.border": "#326146",
         "editorBracketHighlight.unexpectedBracket.foreground": "#D1243B",
         "editor.wordHighlightBackground": "#344134",
-        "editor.wordHighlightStrongBackground": "#40332B"
+        "editor.wordHighlightStrongBackground": "#40332B",
+        "editorIndentGuide.background1": "#3c3c3ccc"
     },
     "tokenColors": [
         {
