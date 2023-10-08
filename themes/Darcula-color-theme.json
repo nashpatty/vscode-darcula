@@ -31,7 +31,26 @@
         "editorIndentGuide.background1": "#2b2d30",
         "editorRuler.foreground": "#393b40",
         "editor.findMatchBackground": "#532B2Ecc",
-        "editor.findMatchHighlightBackground": "#32593Dcc"
+        "editor.findMatchHighlightBackground": "#32593Dcc",
+        // terminal colors
+        "terminal.ansiBlack": "#808080",
+        "terminal.ansiBlue": "#6897BB",
+        "terminal.ansiBrightBlack": "#808080",
+        "terminal.ansiBrightBlue": "#6897BB",
+        "terminal.ansiBrightCyan": "#BCA5C4",
+        "terminal.ansiBrightGreen": "#6A8759",
+        "terminal.ansiBrightMagenta": "#9876AA",
+        "terminal.ansiBrightRed": "#BC3F3C",
+        "terminal.ansiBrightWhite": "#BABABA",
+        "terminal.ansiBrightYellow": "#FFC66D",
+        "terminal.ansiCyan": "#BCA5C4",
+        "terminal.ansiGreen": "#6A8759",
+        "terminal.ansiMagenta": "#9876AA",
+        "terminal.ansiRed": "#BC3F3C",
+        "terminal.ansiWhite": "#BABABA",
+        "terminal.ansiYellow": "#FFC66D",
+        "terminal.background": "#1E1F22",
+        "terminal.foreground": "#A9B7C6"
     },
     "tokenColors": [
         {
