@@ -1,18 +1,17 @@
 {
     "name": "Darcula",
     "colors": {
-        "editor.background": "#2b2b2b",
+        "editor.background": "#1e1f22",
         "editor.foreground": "#A9B7C6",
         "editor.selectionBackground": "#21428380",
-        "editor.lineHighlightBackground": "#3c3c3c",
+        "editor.lineHighlightBackground": "#2b2d30",
         "editorLineNumber.foreground": "#4E5157",
         "editorLineNumber.activeForeground": "#9DA0A8",
         "editorGutter.background": "#313335",
         "titleBar.activeBackground": "#ffffff1a",
         "titleBar.inactiveBackground": "#ffffff10",
         "titleBar.activeForeground": "#A9B7C6",
-        "sideBar.border": "#ffffff1a",
-        "sideBar.background": "#242424",
+        "sideBar.background": "#1e1f22",
         "statusBar.foreground": "#A9B7C6",
         "statusBar.background": "#ffffff1a",
         "tab.activeBackground": "#ffffff1a",
@@ -29,7 +28,10 @@
         "editorBracketHighlight.unexpectedBracket.foreground": "#D1243B",
         "editor.wordHighlightBackground": "#344134",
         "editor.wordHighlightStrongBackground": "#40332B",
-        "editorIndentGuide.background1": "#3c3c3ccc"
+        "editorIndentGuide.background1": "#2b2d30",
+        "editorRuler.foreground": "#393b40",
+        "editor.findMatchBackground": "#532B2Ecc",
+        "editor.findMatchHighlightBackground": "#32593Dcc"
     },
     "tokenColors": [
         {
@@ -208,15 +210,15 @@
             }
         },
         {
-            "name": "Tag attribute",
+            "name": "other properties",
             "scope": "entity.other.attribute-name",
             "settings": {
                 "foreground": "#BABABA"
             }
         },
         {
-            "name": "Object Keys",
-            "scope": "meta.object-literal.key",
+            "name": "keys",
+            "scope": ["meta.object-literal.key", "support.type.property-name"],
             "settings": {
                 "foreground": "#9876AA"
             }
