@@ -3,11 +3,17 @@
   "displayName": "darcula",
   "description": "IntelliJ darcula color scheme with more color accuracy",
   "version": "0.0.1",
+  "publisher": "nashpatty",
   "engines": {
     "vscode": "^1.83.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "vscode",
+    "theme",
+    "dark"
   ],
   "contributes": {
     "themes": [
