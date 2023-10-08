@@ -2,7 +2,7 @@
   "name": "darculacontrast",
   "displayName": "Darcula Contrast",
   "description": "IntelliJ darcula color scheme with more color accuracy",
-  "version": "0.0.2",
+  "version": "1.0.2",
   "publisher": "nashpatty",
   "engines": {
     "vscode": "^1.82.0"
