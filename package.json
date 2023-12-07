@@ -1,9 +1,14 @@
 {
   "name": "darculacontrast",
   "displayName": "Darcula Contrast",
-  "description": "IntelliJ darcula color scheme with more color accuracy",
-  "version": "1.0.2",
+  "description": "IntelliJ darcula contrast color scheme with more color accuracy, and minimal token highlighting.",
+  "icon": "images/icon.png",
+  "version": "1.1.0",
   "publisher": "nashpatty",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nashpatty/vscode-darcula.git"
+  },
   "engines": {
     "vscode": "^1.82.0"
   },
