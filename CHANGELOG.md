@@ -1,9 +1,11 @@
 # Change Log
 
-All notable changes to the "darcula" extension will be documented in this file.
+## [1.1.0]
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+-   initial release
 
-## [Unreleased]
+## [1.2.0] 2023-12-07
 
-- Initial release
+-   Revamp of UI
+-   Added icon
+-   Modified some UI colors
