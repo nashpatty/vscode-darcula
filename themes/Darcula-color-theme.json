@@ -173,8 +173,7 @@
             "name": "Comment",
             "scope": "comment",
             "settings": {
-                "foreground": "#808080",
-                "fontStyle": "italic"
+                "foreground": "#808080"
             }
         },
         {
@@ -187,7 +186,7 @@
         },
         {
             "name": "no highlighting",
-            "scope": "storage.modifier.import",
+            "scope": "storage.modifier.import,variable.other.readwrite",
             "settings": {
                 "foreground": "#A9B7C6"
             }
@@ -201,24 +200,14 @@
         },
         {
             "name": "Strings",
-            "scope": [
-                "string",
-                "string.character.escape",
-                "string.template.quoted",
-                "string.template.quoted.punctuation",
-                "string.template.quoted.punctuation.single",
-                "string.template.quoted.punctuation.double",
-                "string.type.declaration.annotation",
-                "string.template.quoted.punctuation.tag",
-                "punctuation.definition.string"
-            ],
+            "scope": ["string", "string.character.escape", "string.template.quoted", "string.template.quoted.punctuation", "string.template.quoted.punctuation.single", "string.template.quoted.punctuation.double", "string.type.declaration.annotation", "string.template.quoted.punctuation.tag", "punctuation.definition.string"],
             "settings": {
                 "foreground": "#6A8759"
             }
         },
         {
             "name": "String Interpolation Begin and End",
-            "scope": "punctuation.definition.template-expression.begin,punctuation.definition.template-expression.end",
+            "scope": "punctuation.definition.template-expression.begin,punctuation.definition.template-expression.end,punctuation.quasi.element",
             "settings": {
                 "foreground": "#CC7832"
             }
@@ -232,11 +221,7 @@
         },
         {
             "name": "built in constants",
-            "scope": [
-                "constant.numeric",
-                "support.constant.property-value",
-                "constant.other.color"
-            ],
+            "scope": ["constant.numeric", "support.constant.property-value", "constant.other.color"],
             "settings": {
                 "foreground": "#6897BB"
             }
@@ -257,21 +242,7 @@
         },
         {
             "name": "Keyword",
-            "scope": [
-                "keyword",
-                "keyword.operator.new",
-                "keyword.operator.delete",
-                "keyword.operator.static",
-                "keyword.operator.this",
-                "keyword.operator.expression",
-                "punctuation.seperator",
-                "constant.character",
-                "punctuation.terminator",
-                "punctuation.separator.colon.python",
-                "meta.delimiter.comma",
-                "punctuation.attribute-shorthand",
-                "punctuation.definition.interpolation"
-            ],
+            "scope": ["keyword", "keyword.operator.new", "keyword.operator.delete", "keyword.operator.static", "keyword.operator.this", "keyword.operator.expression", "punctuation.seperator", "constant.character", "punctuation.terminator", "punctuation.separator.colon.python", "meta.delimiter.comma", "punctuation.attribute-shorthand", "punctuation.definition.interpolation"],
             "settings": {
                 "foreground": "#CC7832"
             }
