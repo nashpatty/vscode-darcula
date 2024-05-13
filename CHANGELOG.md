@@ -14,3 +14,11 @@
 
 -   Changed line comment form italic to upright
 -   Added hightlighting for string interpolation
+
+## [1.2.2] 2024-12-07
+
+-   Correction
+
+## [1.2.3] 2024-12-07
+
+-   Increase selection background contrast
