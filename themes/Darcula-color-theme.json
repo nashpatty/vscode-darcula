@@ -186,7 +186,7 @@
         },
         {
             "name": "no highlighting",
-            "scope": "storage.modifier.import,variable.other.readwrite",
+            "scope": "storage.modifier.import,variable.other.readwrite,storage.type.java,storage.type.object.array.java,storage.type.generic.java",
             "settings": {
                 "foreground": "#A9B7C6"
             }
