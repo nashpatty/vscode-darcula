@@ -26,6 +26,11 @@
         "label": "Darcula Contrast",
         "uiTheme": "vs-dark",
         "path": "./themes/Darcula-color-theme.json"
+      },
+      {
+        "label": "Darcula Contrast Min",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darcula-color-theme-min.json"
       }
     ]
   }
