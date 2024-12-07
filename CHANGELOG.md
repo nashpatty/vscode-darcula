@@ -26,3 +26,7 @@
 ## [1.2.4] 2024-12-01
 
 -   Changed some tokens for java to prevent visual noise
+
+## [1.3.0] 2024-12-07
+
+-   Added a dark color scheme with minimal syntax highlighting
