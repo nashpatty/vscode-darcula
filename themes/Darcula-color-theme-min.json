@@ -2,8 +2,7 @@
     "name": "Darcula Contrast Min",
     "colors": {
         "editor.background": "#1e1f22",
-        "editor.foreground": "#BCBEC3",
-        // start
+        "editor.foreground": "#BCBEC4",
         "editor.selectionBackground": "#214283E6",
         "editor.lineHighlightBackground": "#26282e",
         "editorLineNumber.foreground": "#4b5059",
@@ -18,7 +17,6 @@
         "editorRuler.foreground": "#313438",
         "editor.findMatchBackground": "#66313f",
         "editor.findMatchHighlightBackground": "#2d543f",
-        //end
         "menu.selectionBackground": "#0078d4",
         "tab.selectedBackground": "#222222",
         "tab.selectedForeground": "#ffffffa0",
@@ -161,7 +159,7 @@
             "name": "no highlight",
             "scope": "variable.parameter,variable.other,string.unquoted.argument.shell,storage.type.object,storage.type.java,constant.other.option",
             "settings": {
-                "foreground": "#BCBEC3"
+                "foreground": "#BCBEC4"
             }
         },
         {
@@ -172,7 +170,7 @@
                 "variable.legacy.builtin.python"
             ],
             "settings": {
-                "foreground": "#BCBEC3"
+                "foreground": "#BCBEC4"
             }
         },
         {
@@ -447,7 +445,7 @@
                 "meta.template.expression"
             ],
             "settings": {
-                "foreground": "#BCBEC3"
+                "foreground": "#BCBEC4"
             }
         },
         {
@@ -476,7 +474,7 @@
         {
             "scope": "keyword.operator",
             "settings": {
-                "foreground": "#BCBEC3"
+                "foreground": "#BCBEC4"
             }
         },
         {
@@ -531,7 +529,7 @@
                 "storage.modifier.package.java"
             ],
             "settings": {
-                "foreground": "#BCBEC3"
+                "foreground": "#BCBEC4"
             }
         },
         {
@@ -544,9 +542,9 @@
     ],
     "semanticHighlighting": true,
     "semanticTokenColors": {
-        "newOperator": "#BCBEC3",
+        "newOperator": "#BCBEC4",
         "stringLiteral": "#79A978",
-        "customLiteral": "#BCBEC3",
+        "customLiteral": "#BCBEC4",
         "numberLiteral": "#2aacb8"
     }
 }
