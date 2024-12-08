@@ -30,3 +30,7 @@
 ## [1.3.0] 2024-12-07
 
 -   Added a dark color scheme with minimal syntax highlighting
+
+## [1.3.1] 2024-12-07
+
+-   Json colors, regex, attributes etc
