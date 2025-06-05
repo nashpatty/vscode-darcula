@@ -34,9 +34,9 @@
         "path": "./themes/Darcula-color-theme.json"
       },
       {
-        "label": "Darcula Contrast Min",
+        "label": "Jetbrains Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Darcula-color-theme-min.json"
+        "path": "./themes/Jetbrains-dark-color-theme-min.json"
       }
     ]
   }
