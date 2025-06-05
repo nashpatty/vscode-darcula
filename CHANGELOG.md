@@ -34,3 +34,8 @@
 ## [1.3.1] 2024-12-07
 
 -   Json colors, regex, attributes etc
+
+## [1.4.0] 2025-06-04
+
+-   Added light color scheme following jetbrains light colors
+-   Renamed Darcula Min to Jetbrains Dark
