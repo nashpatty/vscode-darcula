@@ -18,10 +18,16 @@
   "keywords": [
     "vscode",
     "theme",
-    "dark"
+    "dark",
+    "light"
   ],
   "contributes": {
     "themes": [
+      {
+        "label": "Jetbrains Light Min",
+        "uiTheme": "vs",
+        "path": "./themes/Jetbrains-light-color-theme.json"
+      },
       {
         "label": "Darcula Contrast",
         "uiTheme": "vs-dark",
