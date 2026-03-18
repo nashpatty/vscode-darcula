@@ -10,7 +10,7 @@
     "url": "https://github.com/nashpatty/vscode-darcula.git"
   },
   "engines": {
-    "vscode": "^1.82.0"
+    "vscode": "^1.0.0"
   },
   "categories": [
     "Themes"
@@ -24,19 +24,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Jetbrains Light Min",
+        "label": "Retro Light",
         "uiTheme": "vs",
-        "path": "./themes/Jetbrains-light-color-theme.json"
+        "path": "./themes/retro-light-color-theme.json"
       },
       {
         "label": "Darcula Contrast",
         "uiTheme": "vs-dark",
-        "path": "./themes/Darcula-color-theme.json"
+        "path": "./themes/darcula-contrast-color-theme.json"
       },
       {
-        "label": "Jetbrains Dark",
+        "label": "Islands Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Jetbrains-dark-color-theme-min.json"
+        "path": "./themes/islands-dark-color-theme.json"
       }
     ]
   }
